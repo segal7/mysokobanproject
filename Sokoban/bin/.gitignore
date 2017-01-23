@@ -2,3 +2,6 @@
 /commands/
 /gameObjects/
 /levels/
+/controller/
+/view/
+/model/
