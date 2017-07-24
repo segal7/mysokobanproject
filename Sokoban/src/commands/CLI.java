@@ -2,8 +2,9 @@ package commands;
 
 import java.util.Scanner;
 
-import gameObjects.Sokoban;
-import levels.Level;
+import model.data.Level;
+import model.data.Sokoban;
+import model.policy.MySokobanPolicy;
 
 public class CLI {
 	

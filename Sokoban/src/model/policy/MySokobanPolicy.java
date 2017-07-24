@@ -1,12 +1,12 @@
-package commands;
+package model.policy;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import gameObjects.Box;
-import gameObjects.Sokoban;
-import gameObjects.Target;
-import gameObjects.Wall;
+import model.data.Box;
+import model.data.Sokoban;
+import model.data.Target;
+import model.data.Wall;
 
 public class MySokobanPolicy extends Policy{	
 	

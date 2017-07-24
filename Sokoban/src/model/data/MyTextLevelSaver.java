@@ -1,16 +1,10 @@
-package levels;
+package model.data;
 
 import java.awt.Point;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.HashMap;
-
-import gameObjects.Box;
-import gameObjects.GameObject;
-import gameObjects.Sokoban;
-import gameObjects.Target;
-import gameObjects.Wall;
 
 public class MyTextLevelSaver implements LevelSaver{
 

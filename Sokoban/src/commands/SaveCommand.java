@@ -3,11 +3,11 @@ package commands;
 import java.io.FileNotFoundException;
 import java.util.HashMap;
 
-import levels.Level;
-import levels.LevelSaver;
-import levels.MyObjLevelSaver;
-import levels.MyTextLevelSaver;
-import levels.MyXMLLevelSaver;
+import model.data.Level;
+import model.data.LevelSaver;
+import model.data.MyObjLevelSaver;
+import model.data.MyTextLevelSaver;
+import model.data.MyXMLLevelSaver;
 
 public class SaveCommand implements Command {
 

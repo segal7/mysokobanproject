@@ -1,11 +1,9 @@
-package levels;
+package model.data;
 
 import java.awt.Point;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.HashMap;
-
-import gameObjects.*;
 
 public class Level implements Serializable {
 	//data members:

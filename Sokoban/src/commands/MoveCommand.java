@@ -1,8 +1,9 @@
 package commands;
 import java.awt.Point;
 
-import gameObjects.GameObject;
-import levels.Level;
+import model.data.GameObject;
+import model.data.Level;
+import model.policy.Policy;
 
 public class MoveCommand implements Command {
 

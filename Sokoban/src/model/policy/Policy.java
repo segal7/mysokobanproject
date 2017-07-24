@@ -1,9 +1,9 @@
-package commands;
+package model.policy;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import gameObjects.GameObject;
+import model.data.GameObject;
 
 public abstract class Policy {
 	private HashMap<String,ArrayList<String>> _canStepOn;

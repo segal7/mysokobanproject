@@ -1,4 +1,4 @@
-package levels;
+package model.data;
 
 import java.io.InputStream;
 

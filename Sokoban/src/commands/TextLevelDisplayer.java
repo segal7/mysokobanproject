@@ -3,12 +3,12 @@ package commands;
 import java.awt.Point;
 import java.util.HashMap;
 
-import gameObjects.Box;
-import gameObjects.GameObject;
-import gameObjects.Sokoban;
-import gameObjects.Target;
-import gameObjects.Wall;
-import levels.Level;
+import model.data.Box;
+import model.data.GameObject;
+import model.data.Level;
+import model.data.Sokoban;
+import model.data.Target;
+import model.data.Wall;
 
 public class TextLevelDisplayer implements LevelDisplayer {
 

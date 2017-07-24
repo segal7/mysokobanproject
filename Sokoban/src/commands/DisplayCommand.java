@@ -1,6 +1,6 @@
 package commands;
 
-import levels.Level;
+import model.data.Level;
 
 public class DisplayCommand implements Command {
 	private Level lvl = null; 
